@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "00e1c2b5",
+   "id": "a1077335",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -16,7 +16,10 @@
     "    print(\"adding code for ML Model2 \")\n",
     "    \n",
     "def model3():\n",
-    "    print(\"adding code for ML Model3  \")"
+    "    print(\"adding code for ML Model3  \")\n",
+    "    \n",
+    "    \n",
+    "print(\"model 2 is performing best\")"
    ]
   }
  ],
