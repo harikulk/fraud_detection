@@ -3,11 +3,20 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "e7e126cb",
+   "id": "00e1c2b5",
    "metadata": {},
    "outputs": [],
    "source": [
-    "print (\"adding all ML related code here..\")"
+    "print (\"adding all ML related code here..\")\n",
+    "\n",
+    "def model1():\n",
+    "    print(\"adding code for ML Model1 \")\n",
+    "    \n",
+    "def model2():\n",
+    "    print(\"adding code for ML Model2 \")\n",
+    "    \n",
+    "def model3():\n",
+    "    print(\"adding code for ML Model3  \")"
    ]
   }
  ],
